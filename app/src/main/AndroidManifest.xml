@@ -13,36 +13,36 @@
         android:roundIcon="@mipmap/icone_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activities.Module.Event.UpdateEventActi"></activity>
-        <activity android:name=".Activities.Module.Restaurant.Review.AddReviewActi" />
-        <activity android:name=".Activities.MainMenuView.UpdateProfilActi" />
+        <activity android:name=".activities.module.event.UpdateEventActi"></activity>
+        <activity android:name=".activities.module.restaurant.review.AddReviewActi" />
+        <activity android:name=".activities.mainMenuView.UpdateProfilActi" />
         <activity
-            android:name=".Activities.Module.Restaurant.Review.ReviewActi"
-            android:parentActivityName=".Activities.Module.Restaurant.RestauActi" />
-        <activity android:name=".Activities.StartView.PrivacyActi" />
-        <activity android:name=".Activities.Module.Restaurant.RestauInfoActi" />
-        <activity android:name=".Activities.Module.Event.EventInfoActi" />
+            android:name=".activities.module.restaurant.review.ReviewActi"
+            android:parentActivityName=".activities.module.restaurant.RestauActi" />
+        <activity android:name=".activities.startView.PrivacyActi" />
+        <activity android:name=".activities.module.restaurant.RestauInfoActi" />
+        <activity android:name=".activities.module.event.EventInfoActi" />
         <activity
-            android:name=".Activities.Module.Event.AddEventActi"
+            android:name=".activities.module.event.AddEventActi"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".Activities.MainMenuView.SettingsActivity" />
+        <activity android:name=".activities.mainMenuView.SettingsActivity" />
         <activity
-            android:name=".Activities.Module.Restaurant.RestauActi"
-            android:parentActivityName=".Activities.MainMenuView.MainMenuActi" />
+            android:name=".activities.module.restaurant.RestauActi"
+            android:parentActivityName=".activities.mainMenuView.MainMenuActi" />
         <activity
-            android:name=".Activities.Module.Event.EventActi"
-            android:parentActivityName=".Activities.MainMenuView.MainMenuActi" />
+            android:name=".activities.module.event.EventActi"
+            android:parentActivityName=".activities.mainMenuView.MainMenuActi" />
         <activity
-            android:name=".Activities.StartView.RegisterActi"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".Activities.StartView.SignInActi"
+            android:name=".activities.startView.RegisterActi"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Activities.MainMenuView.MainMenuActi"
+            android:name=".activities.startView.SignInActi"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Activities.StartView.StartApp"
+            android:name=".activities.mainMenuView.MainMenuActi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.startView.StartApp"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
