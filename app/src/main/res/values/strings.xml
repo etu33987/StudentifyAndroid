@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Studentify_Android</string>
+    <string name="dsc_logo">Icon of the logo</string>
+    <string name="logo_name" translatable="false">Studentify</string>
+    <string name="start_conditionUti">Terms and Privacy Policy</string>
+    <string name="start_signIn">Sign in</string>
+    <string name="start_GoogleConnect">Sign in with Google</string>
+    <string name="start_register">Register</string>
+    <string name="main_signOut">Successfully signed out</string>
+    <string name="settings_modify">Update profile</string>
+    <string name="unknow">Not specified</string>
+    <string name="clienID" translatable="false">662962439121-hpb1lhrrovr9iq43t01h945jjmi8cpta.apps.googleusercontent.com</string>
+    <string name="event_createBy">"Create by : "</string>
+    <string name="event_beginDate">"Begin date : "</string>
+    <string name="event_endDate">"End date : "</string>
+    <string name="address_place">"Place : "</string>
+    <string name="address_place_street">Street  :</string>
+    <string name="address_place_city">City :</string>
+    <string name="address_place_number">Street number :</string>
+    <string name="address_place_zipCode">Postal code :</string>
+    <string name="address_place_floor">Floor :</string>
+    <string name="address_place_box">Box :</string>
+    <string name="event_followButton">Join the event</string>
+    <string name="event_unFollowButton">Leave the event</string>
+    <string name="restau_rating_button">See ratings</string>
+    <string name="start_privacy_content">Model privacy policy. Introduction Faced with the development of new communication tools, it is necessary to pay particular attention to the protection of privacy. This is why we are committed to respecting the confidentiality of the personal information that we collect.  Collection of personal information We collect the following information:  Name First name Address Postal code email address Telephone / fax number Gender / Sex Age / Date of birth Origins (social, ethnic, etc.) Political / trade union membership Profession Income / financial resources Preferences (musical, literary, cinematographic, etc.) Physical description Driver\'s license number Family situation The personal information we collect is collected through forms and through the interactivity established between you and our website. We also use, as noted in the following section, cookies and / or logs to collect information about you.  Forms and interactivity: Your personal information is collected using a form, namely:  Website registration form Order form Survey We use the information thus collected for the following purposes:  Statistics Contact Your information is also collected through the interactivity that can be established between you and our website, as follows:  Statistics Contact Website management (presentation, organization) We use the information thus collected for the following purposes: Forum or discussion area comments Correspondence Information or for promotional offers Log and cookie files We collect certain information through log files and cookies. This is mainly the following information:  IP adress Operating system Visited pages and requests Connection time and day  The use of such files allows us to:  Improved service and personalized welcome Personalized consumption profile Tracking control Statistical Sharing of Personal Information We agree not to market the personal information collected. However, we sometimes share this information with third parties for the following reasons:  Consumption profile Execution of the order Partnership Publicity If you do not want your personal information to be disclosed to third parties, you can object to it at the time of collection or at any time thereafter, as mentioned in the following section. Right of opposition and withdrawal We are committed to offering you a right of objection and withdrawal regarding your personal information. The right of opposition is understood as being the possibility offered to Internet users to refuse that their personal information be used for certain purposes mentioned during the collection. The right of withdrawal is understood to be the possibility offered to Internet users to request that their personal information no longer appear, for example, in a mailing list. To exercise these rights, you can: Postal code: Rue des vents, Namur 5000 Email: David@enough.be Telephone: +32 966 666 Website section: https://studentifyapi.azurewebsites.net/ Permission to access We undertake to recognize the right of access and rectification to the persons concerned wishing to consult, modify, or even delete information concerning them. The exercise of this right will be: Postal code: Rue des vents, Namur 5000 Email: David@enough.be Telephone: +32 966 666 Website section: https://studentifyapi.azurewebsites.net/ security The personal information we collect is kept in a secure environment. People working for us are required to respect the confidentiality of your information. To ensure the security of your personal information, we use the following measures:  SSL (Secure Sockets Layer) protocol SET Protocol (Secure Electronic Transaction) Access management - authorized person Access management - data subject Computer backup Digital certificate development Login password Firewalls We are committed to maintaining a high degree of confidentiality by integrating the latest technological innovations to ensure the confidentiality of your transactions. However, since no mechanism offers maximum security, there is always a risk involved when using the Internet to transmit personal information.</string>
+    <string name="register_email">Email</string>
+    <string name="form_empty_field">Empty fields</string>
+    <string name="error_matche_email">This is not an email address (ex : bob@gmail.com)</string>
+    <string name="settings_email">"Email : "</string>
+    <string name="settings_name">"Lastname : "</string>
+    <string name="settings_firstname">"First name : "</string>
+    <string name="settings_birthdate">"Birthdate : "</string>
+    <string name="settings_phone_number">"Phone number : "</string>
+    <string name="settings_street_name">"Street name : "</string>
+    <string name="settings_city">"City : "</string>
+    <string name="settings_streetnumber">"Street number : "</string>
+    <string name="settings_postalcode">"Postal code : "</string>
+    <string name="settings_box">"Box : "</string>
+    <string name="settings_floor">"Floor : "</string>
+    <string name="from_google">(from Google)</string>
+    <string name="pref_current_user_id" translatable="false">-1</string>
+    <string name="register_password">"Password : "</string>
+    <string name="event_title">"Title : "</string>
+    <string name="event_desc">"Description : "</string>
+    <string name="event_type">"Type : "</string>
+    <string name="error_empty">Can\'t be empty</string>
+    <string name="register_picture">Profil icon :</string>
+    <string name="error_matche_birthdate">Format : YYYY/MM/DD</string>
+    <string name="error_matche_postalcode">This is not a postal code (ex : 5008)</string>
+    <string name="settings_gender">Gender :</string>
+    <string name="error_fun_date_after">Were you born in the future?</string>
+    <string name="error_matche_password">At least 3 alphanumeric characters are required</string>
+    <string name="pref_current_user_picture" translatable="false">null</string>
+    <string name="pref_file_key" translatable="false">-1</string>
+    <string name="review_add_button">Add a review</string>
+    <string name="register_confirm_password">"Confim the password : "</string>
+    <string name="register_confirm_pass_matche">You need to put the same password</string>
+    <string name="warning_addEvent_message">Be careful, make sure that if you have completed at least one address field, all the other fields (except the floor and the box) are filled.</string>
+    <string name="warning_addEvent_ok">Ok, create my event !</string>
+    <string name="warning_addEvent_cancel">Cancel</string>
+    <string name="warning_addEvent_title">Check before continue</string>
+    <string name="profil_update_button">Change my password</string>
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+    <string name="create">Create</string>
+    <string name="event_modify_button">Modify the event</string>
+    <string name="error_date_after_today">The date can\'t be in the past</string>
+    <string name="error_date_after_begin_date">The end date can\'t be before the start date</string>
+    <string name="error">Error</string>
+    <string name="post_delete_success">Event deleted</string>
+    <string name="post_delete_fail">The event could not be deleted</string>
+    <string name="error_no_connection">You are not connected to internet</string>
+    <string name="error_not_login">You are not connected</string>
+    <string name="change_pswd_current_password">Current password</string>
+    <string name="change_pswd_new_password">New password</string>
+    <string name="event_no_to_show">No event to show</string>
+    <string name="error_phone_matche">Phone must start with 0</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+</resources>
